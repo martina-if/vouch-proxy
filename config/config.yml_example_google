@@ -7,7 +7,7 @@ vouch:
   - yourdomain.com
   - yourotherdomain.com
 
-  # set allowAllUsers: true to use Vouch Proxy to just accept anyone who can authenticate at Gitea
+  # set allowAllUsers: true to use Vouch Proxy to just accept anyone who can authenticate at Google
   # allowAllUsers: true
 
   cookie:
